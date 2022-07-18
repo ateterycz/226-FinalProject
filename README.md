@@ -1,6 +1,6 @@
 # CSC 226 Web Database Applications - FinalProject
 
-A prototype webpage for a simulated car dealership. 
+A prototype web application for a simulated car dealership. 
 
 The database stores all car, order and authentication information used throughout the webpages.
 
